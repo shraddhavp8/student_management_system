@@ -14,4 +14,4 @@ A comprehensive Student Management System developed using Python, Tkinter, and M
 - Python 3.8 or higher
 - Tkinter
 - MySQL
-- Other dependencies listed in `requirements.txt`
+
